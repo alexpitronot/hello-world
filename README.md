@@ -21,7 +21,7 @@ _We **can** combine them_
    1. Item 3a
    1. Item 3b
 
-![GitHub Logo](/images/devops.png)
+![GitHub Logo](/images/INT_Logo.jpg)
 
 
 http://github.com - automatic!
