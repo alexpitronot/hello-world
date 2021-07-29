@@ -22,7 +22,7 @@ _We **can** combine them_
    1. Item 3b
 
 ![GitHub Logo](/images/devops.png)
-Format: ![Alt Text](url)
+
 
 http://github.com - automatic!
 [GitHub](http://github.com)
