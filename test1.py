@@ -1,1 +1,1 @@
-print('Hi to All')
+print('Hi to All class')
